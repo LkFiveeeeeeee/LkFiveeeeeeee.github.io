@@ -5,11 +5,11 @@
 # Site
 title: MirrorK's Blog
 subtitle: '多学习，少摸鱼'
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+favicon: https://cdn.jsdelivr.net/gh/xaoxuu/assets@master/favicon/favicon.ico
+language: 
+  - zh-CN
+  - en
+  
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
